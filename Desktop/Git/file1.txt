@@ -1,0 +1,4 @@
+This is the file 1 for the git course
+lets add new things in the file 1
+more content for global command
+aand the more content is still there in the file 1
